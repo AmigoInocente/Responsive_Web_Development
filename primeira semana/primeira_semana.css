@@ -1,0 +1,19 @@
+html{
+    background-image: linear-gradient(to bottom, rgb(72, 170, 250), rgb(0, 63, 145));
+    background-repeat: no-repeat;
+}
+
+.titulo{
+    background-color: transparent;
+    color: black;
+    position: relative;
+    text-align: center;
+
+}
+
+.texto{
+    font-style: oblique;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    width: 500px;
+}
