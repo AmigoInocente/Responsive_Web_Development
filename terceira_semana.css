@@ -1,0 +1,23 @@
+ul{
+    
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    font-size: 20px;
+}
+
+li{
+    margin: 2px;
+    cursor: pointer;
+    padding: 20px 10px;
+    border: 2px black solid;
+}
+
+.ativacao li:hover{
+    background-color: black;
+    color: white;
+}
+.ativado{
+    background-color: black;
+    color: white;
+}
