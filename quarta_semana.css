@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(147, 187, 187);
+}
+
+div{
+    text-align: center;
+    background: #ffffff;
+    border-radius: 14px;
+    box-shadow: 0 4px 16px rgba(19, 18, 18, 0.05);
+    margin: 25px auto;
+    max-width: 600px;
+    padding: 24px 20px;
+}
+
+p{
+    font-size: 30px;
+}
+
+input{
+    border-radius: 5px;
+}

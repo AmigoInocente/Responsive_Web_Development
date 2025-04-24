@@ -4,3 +4,16 @@
     text-decoration: none;
     font-size: 30px;
 }
+
+div{
+    margin-bottom: 40px;
+    text-align: center;
+    background-color: white;
+    margin: 25px auto;
+    max-width: 600px;
+    padding: 24px 20px;
+    border-radius: 20px;
+}
+html{
+    background-color: rgb(240, 210, 170);
+}
